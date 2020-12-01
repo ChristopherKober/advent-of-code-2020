@@ -2,6 +2,6 @@
 name = "aoc2020"
 version = "0.1.0"
 authors = ["Christopher Kober <ChristopherKober@users.noreply.github.com>"]
-edition = "2020"
+edition = "2018"
 
 [dependencies]
