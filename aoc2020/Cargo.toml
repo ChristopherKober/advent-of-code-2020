@@ -5,3 +5,4 @@ authors = ["Christopher Kober <ChristopherKober@users.noreply.github.com>"]
 edition = "2018"
 
 [dependencies]
+clap = "~2.27.0"
