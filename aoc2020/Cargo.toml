@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 clap = "~2.27.0"
+paris = { version = "~1.5", features = ["macros"] }
